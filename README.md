@@ -2,11 +2,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width=400 alt="coding" src="https://avatars.githubusercontent.com/u/125381808?v=4">
 
-- 🔭 I’m currently working on [t-shirt](https://tshirtwebsite.netlify.app)
+- 🔭 I’m currently working on [t-shirt,FarmFresh](https://tshirtwebsite.netlify.app)(https://farmfresh-123.netlify.app)
 
 - 🌱 I’m currently learning **Full stack, Angular, React js, C and C++**
 
-- 👯 I’m looking to collaborate on [FarmFresh](https://farmfresh-123.netlify.app)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sonam-sahu-7b8129208/](https://www.linkedin.com/in/sonam-sahu-7b8129208/)
 
